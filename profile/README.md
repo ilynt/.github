@@ -39,4 +39,4 @@ Datasets are published on [Hugging Face](https://huggingface.co/ilynt) as they a
 
 ---
 
-<sub>[ilyntlabs.com](https://ilyntlabs.com) · [huggingface.co/ilynt](https://huggingface.co/ilynt) · [bilal@ilyntlabs.com](mailto:bilal@ilyntlabs.com)</sub>
+<sub>[ilyntlabs.com](https://ilyntlabs.com) · [LinkedIn](https://www.linkedin.com/company/ilyntlabs/) · [Hugging Face](https://huggingface.co/ilynt) · [bilal@ilyntlabs.com](mailto:bilal@ilyntlabs.com)</sub>
