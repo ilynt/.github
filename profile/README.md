@@ -1,30 +1,34 @@
-# ILYNT Labs
+# Ilynt Labs
 
-**Ideas, connected.**
+Independent AI product and R&D studio — Türkiye.
 
-ILYNT Labs is an independent technology lab exploring ideas, building software, and turning promising experiments into useful products.
+We build our own AI products and datasets, and AI systems for organizations. Work areas: RAG, tool calling, agents, data pipelines, automation and developer infrastructure.
 
-We work across software engineering, emerging technologies, developer tools, open source, and experimental products.
+[ilyntlabs.com](https://ilyntlabs.com) · [Hugging Face](https://huggingface.co/ilynt) · [bilal@ilyntlabs.com](mailto:bilal@ilyntlabs.com)
 
-Our projects start with a simple question:
+## Lab index
 
-**Can this idea become something genuinely useful?**
+Every product, dataset and experiment gets the next number and a state.
 
-## What we build
+| No. | Work | Type | State |
+| --- | --- | --- | --- |
+| IL-001 | [Sinyra](https://ilyntlabs.com/products/sinyra) — daily AI product launch briefing in Turkish | Product | Live |
+| IL-002 | [Turkish tool-calling dataset](https://ilyntlabs.com/lab/turkish-tool-calling-dataset) — training and evaluation data for tool calling from Turkish requests | Dataset | In development |
 
-We create software, tools, experiments, and open-source projects around problems we find worth exploring.
+Full index: [ilyntlabs.com/lab](https://ilyntlabs.com/lab)
 
-Some projects may become products.  
-Some may remain experiments.  
-Some exist simply to learn, test, and contribute.
+## For organizations
 
-## Open Source
+- [Enterprise RAG systems](https://ilyntlabs.com/solutions/enterprise-rag) — search and answers over an organization's own documents, with every answer sourced.
+- [Custom AI systems](https://ilyntlabs.com/solutions/custom-ai-systems) — tool calling and agent workflows connected to existing systems.
+- [Web and application development](https://ilyntlabs.com/solutions/web-and-app-development) — applications, dashboards and websites.
 
-We believe useful work should be shared whenever possible.
+## Open source
 
-Public projects are documented, reproducible, and open to contributions where appropriate.
+- [`web`](https://github.com/ilynt/web) — source of [ilyntlabs.com](https://ilyntlabs.com) (Next.js). Products, datasets and services are generated from one typed content layer.
+
+Datasets are published on [Hugging Face](https://huggingface.co/ilynt) as they are released.
 
 ---
 
-**ILYNT Labs**  
-*Explore. Build. Connect.*
+Founded by [Bilal Abiç](https://www.linkedin.com/in/bilalabic/).
